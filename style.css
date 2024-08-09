@@ -1,0 +1,85 @@
+.container {
+  overflow: hidden;
+  background-color: rgb(240, 240, 233);
+  border: 2px solid red;
+  border-radius: 25px;
+  padding-bottom: 200px;
+}
+
+.logo {
+  width: 200px;
+  border-radius: 25px;
+}
+
+.imgAndTitle {
+  padding: 200px 200px;
+  margin-bottom: -50px;
+}
+
+.img {
+  float: left;
+}
+
+.title {
+  float: right;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+  color: darkblue;
+}
+
+h2 {
+  margin-top: 0px;
+  color: darkblue;
+  font-style: italic;
+}
+
+h3 {
+  margin-top: 35px;
+}
+
+.studentIdentityCard {
+  color: darkred;
+  font-style: italic;
+}
+
+.informations {
+  font-weight: bold;
+  float: left;
+}
+
+.answers {
+  font-weight: 100;
+}
+
+.translations {
+  font-weight: 100;
+  font-style: italic;
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+.profileImage {
+  height: 344px;
+  border: 1px aqua solid;
+  border-radius: 25%;
+}
+
+.profileImg {
+  float: right;
+}
+
+.informationsAndProfileImg {
+  padding: 150px 200px;
+}
+
+.informations,
+.answers {
+  font-size: 18px;
+}
+
+.containerInformations {
+  margin-bottom: 0px;
+}
